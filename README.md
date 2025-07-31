@@ -5,6 +5,7 @@ It ensures that Software remains public, transparent, and ethically used.
 
 This license is ideal for developers who want their work to benefit others freely, without being turned into a product or service for profit.
 
+
 ## Why I Created this License
 
 Many other Open-Source licenses allow corporations to profit from open-source work by adding monetisation or Premium Acess.
@@ -12,30 +13,17 @@ Many other Open-Source licenses allow corporations to profit from open-source wo
 
 Therefore, I created the EUSL to ensure that:
 
-- Software remains free and publicly accessible
+- 🌎 Your Software remains free and publicly accessible
 
-- Developers are credited for their work
+- 📜 You are Credited for your Work
 
-- No one can sell, resell, or monetize the project
+- 💸 No one can sell, resell, or monetize your Project
 
-- All changes are open and transparent
+- ✍️ All changes to your Work are Open and Transparent
 
-- The license and its intent remain intact across all forks
+- 💬 The License and its intent remain intact across all forks of your Software
 
-
-In short, this license reflects that:
-
-❌ Any commercial or monetized use is prohibited
-
-✅ Open-Source use, modification, and redistribution is allowed
-
-✅ Attribution and a link to the original Project is required
-
-✅ Modifications must be clearly documented
-
-🔒 The License cannot be removed or changed
-
-⚠️ No warranty or liability is included
+- ⚠️ No Warranty or Liability are included in yor Work
 
 
 ## How to Apply this License to your own Software:
