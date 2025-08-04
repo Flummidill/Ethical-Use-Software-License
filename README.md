@@ -28,18 +28,20 @@ Therefore, I created the EUSL to ensure that:
 
 ## How to Apply this License to your own Software:
 
-	a) Create a License File with the following Contents and add it to your Source-Code:
-		<Name of the Program>
-		Copyright (C) <Year> <Name of the Author>
+a) Create a License File with the following Contents and add it to your Source-Code:
+
+    <Name of the Program>
+    Copyright (C) <Year> <Name of the Author>
 		
-		This Program is Licensed under Version 1 of the ETHICAL USE SOFTWARE LICENSE (EUSL)
+    This Program is Licensed under Version 1 of the ETHICAL USE SOFTWARE LICENSE (EUSL)
 		
-		----------------------------------------------------------------------------------------------------
+    ----------------------------------------------------------------------------------------------------
 		
-		<Copy of the EUSL (https://github.com/Flummidill/Ethical-Use-Software-License/EUSL-V1.txt)>
+    <Copy of the EUSL (https://github.com/Flummidill/Ethical-Use-Software-License/EUSL-V1.txt)>
 		
-	b) OPTIONAL BUT RECOMMENDED: To be the Safest, Attach the following notices to the Top of each Source File:
-		<Name of the Program>
-		Copyright (C) <Year> <Name of the Author>
+b) OPTIONAL BUT RECOMMENDED: To be the Safest, attach the following notice to the Top of each Source File:
 		
-		This Program is Licensed under Version <Version> of the ETHICAL USE SOFTWARE LICENSE (EUSL): <Link to the previously created License File>
+    <Name of the Program>
+    Copyright (C) <Year> <Name of the Author>
+		
+    This Program is Licensed under Version <Version> of the ETHICAL USE SOFTWARE LICENSE (EUSL): <Link to the previously created License File>
