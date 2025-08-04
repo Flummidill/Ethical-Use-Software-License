@@ -23,7 +23,7 @@ Therefore, I created the EUSL to ensure that:
 
 - 💬 The License and its intent remain intact across all forks of your Software
 
-- ⚠️ No Warranty or Liability are included in yor Work
+- ⚠️ No Warranty or Liability are included in your Work
 
 
 ## How to Apply this License to your own Software:
