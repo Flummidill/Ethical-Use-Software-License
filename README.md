@@ -37,7 +37,7 @@ a) Create a License File with the following Contents and add it to your Source-C
 		
     ----------------------------------------------------------------------------------------------------
 		
-    <Copy of the EUSL (https://github.com/Flummidill/Ethical-Use-Software-License/EUSL-V1.txt)>
+    <Copy of the EUSL (https://github.com/Flummidill/Ethical-Use-Software-License/blob/V1/EUSL-V1.txt?raw=true)>
 		
 b) OPTIONAL BUT RECOMMENDED: To be the Safest, attach the following notice to the Top of each Source File:
 		
