@@ -8,7 +8,7 @@ This license is ideal for developers who want their work to benefit others freel
 
 ## Why I Created this License
 
-Many other Open-Source licenses allow corporations to profit from open-source work by adding monetisation or Premium Acess.
+Many other Open-Source licenses allow corporations to profit from open-source work by adding monetization through Premium Acess.
 
 
 Therefore, I created the EUSL to ensure that:
